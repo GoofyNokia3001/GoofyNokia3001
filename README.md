@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frameworks** and **ReactJs**
 
-- 📫 How to reach me **lukeskywalkervs@gmail.com**
+- 📫 How to reach me **klims.kulacenoks@gmail.com**
 
 - ⚡ Fun fact **I think I'am funny**
 
