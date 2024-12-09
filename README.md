@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Klim</h1>
-<h3 align="center">A passionate frontend developer from Latvia</h3>
+<h3 align="center">A passionate student developer from Latvia</h3>
 
-- 🔭 I’m currently studying about **HTML/CSS/JS**
+- 🔭 I’m currently learning about **HTML/CSS/JS/PHP/SQL**
 
 - Finished Java project - [Pizza](https://github.com/GoofyNokia3001/Kula-enoks1_pica.git)
 
